@@ -22,7 +22,7 @@ An end-to-end sales analytics tool for small businesses. Built with Python, SQLi
 ```
 SalesDashboardExample/
 ├── data/                    # Raw or sample CSV files
-├── screenshots/             # Portfolio screenshots
+├── screenshots/             # dashboard screenshots
 │   ├── full_dashboard.png
 │   ├── more_data.png
 │   ├── one_item_one_year.png
